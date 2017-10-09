@@ -1,0 +1,14 @@
+parameters:
+    database_driver:   pdo_mysql
+    database_host:     127.0.0.1
+    database_port:     ~
+    database_name:     symfony
+    database_user:     symfony
+    database_password: d5ec5a16e91e5b48a7a4f6d75f1e2933
+
+    mailer_transport:  smtp
+    mailer_host:       127.0.0.1
+    mailer_user:       ~
+    mailer_password:   ~
+
+    secret:            64198dc42165b1c88974bbe88e728be5
